@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md_Masum
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Meachine Learning
+- 🌱 I’m currently learning ...Machine Learning and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Just a sms on github
 
